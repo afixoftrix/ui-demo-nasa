@@ -2,7 +2,7 @@
 
 ## Description
 
-This a UI demo for a [GIF](../reference/nasa_reference.gif). 
+This a UI demo for a [GIF](./reference/nasa_reference.gif). 
 
 ## Setup
 
